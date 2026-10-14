@@ -1,0 +1,29 @@
+body {
+    background-color: #ffcccc;
+    color: #990000;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    background-color: red;
+    color: white;
+}
+
+h2 {
+    color: darkred;
+}
+
+p {
+    color: #660000;
+}
+
+a {
+    color: white;
+    background-color: red;
+    text-decoration: none;
+}
+
+img {
+    width: 300px;
+}
